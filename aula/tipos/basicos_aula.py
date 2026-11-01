@@ -1,0 +1,10 @@
+# É do tipo int (inteiro)
+print(type(1))
+# É do tipo float (decimal)
+print(type(1.1))
+# É do tipo String (Texto)
+print(type("texto"))
+# É do tipo bool verdadeiro booleano
+print(True)
+# É do tipo bool falso (booleano)
+print(False)
